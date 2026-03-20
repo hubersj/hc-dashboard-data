@@ -1,0 +1,465 @@
+{
+  "kpis": [
+    {
+      "Metric": "People Housed YTD",
+      "Value": "329",
+      "Unit": "",
+      "Change vs Prior": "+18%",
+      "Status": "On Track",
+      "Directive": "A",
+      "Definition": "Total individuals and families successfully placed in stable housing year-to-date across all HC core initiatives (ODI, CHO, Innovation Lab)."
+    },
+    {
+      "Metric": "Avg Days Homeless",
+      "Value": "47",
+      "Unit": "days",
+      "Change vs Prior": "-12%",
+      "Status": "On Track",
+      "Directive": "A",
+      "Definition": "Average number of days between a person's first contact with the homeless response system and their placement in stable housing."
+    },
+    {
+      "Metric": "Recidivism Rate",
+      "Value": "8.3",
+      "Unit": "%",
+      "Change vs Prior": "-2.1%",
+      "Status": "On Track",
+      "Directive": "A",
+      "Definition": "Percentage of people who return to homelessness within 12 months of being housed. Lower is better."
+    },
+    {
+      "Metric": "Units Preserved",
+      "Value": "214",
+      "Unit": "",
+      "Change vs Prior": "+31%",
+      "Status": "On Track",
+      "Directive": "A",
+      "Definition": "Cumulative count of affordable housing units produced, preserved, or protected from loss through HC-supported partnerships."
+    },
+    {
+      "Metric": "Active Partners",
+      "Value": "79",
+      "Unit": "",
+      "Change vs Prior": "+5",
+      "Status": "On Track",
+      "Directive": "B",
+      "Definition": "Number of organizations actively participating in HC-led convenings, coalitions, or collective impact initiatives during the reporting period."
+    },
+    {
+      "Metric": "BIPOC-led Orgs",
+      "Value": "12",
+      "Unit": "",
+      "Change vs Prior": "+3",
+      "Status": "On Track",
+      "Directive": "B",
+      "Definition": "Number of new formal partnerships established with organizations led by Black, Indigenous, and People of Color during the plan period."
+    },
+    {
+      "Metric": "Policy Wins YTD",
+      "Value": "3",
+      "Unit": "",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "B",
+      "Definition": "Number of policy changes, funding allocations, or legislative outcomes directly attributable to HC's advocacy and research efforts."
+    },
+    {
+      "Metric": "Partner Satisfaction",
+      "Value": "4.2",
+      "Unit": "/5",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "B",
+      "Definition": "Average rating (1–5 scale) from the annual partner survey measuring HC's value as a convening and coordinating body."
+    },
+    {
+      "Metric": "Staff Retention",
+      "Value": "87",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "C",
+      "Definition": "Percentage of staff employed at the start of the year who remain employed at year-end. Target: 85% or above."
+    },
+    {
+      "Metric": "Revenue Diversification",
+      "Value": "64",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "C",
+      "Definition": "Percentage of total revenue from the largest single funding source. Lower concentration = healthier diversification. Target: no source exceeds 40%."
+    },
+    {
+      "Metric": "Operating Reserve",
+      "Value": "2.4",
+      "Unit": "months",
+      "Change vs Prior": "",
+      "Status": "At Risk",
+      "Directive": "C",
+      "Definition": "Number of months of operating expenses held in unrestricted cash reserves. Target: minimum 3 months."
+    },
+    {
+      "Metric": "Compliance Rate",
+      "Value": "98",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "At Risk",
+      "Directive": "C",
+      "Definition": "Percentage of grants and contracts meeting all funder reporting, programmatic, and financial compliance requirements by their deadlines."
+    },
+    {
+      "Metric": "Staff Satisfaction",
+      "Value": "4.1",
+      "Unit": "/5",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "C",
+      "Definition": "Average score (1–5 scale) from the bi-annual staff engagement and workplace satisfaction survey."
+    },
+    {
+      "Metric": "Dev Hours / Person",
+      "Value": "23",
+      "Unit": "hrs",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "C",
+      "Definition": "Average number of professional development and training hours completed per staff member annually. Target: minimum 20 hours."
+    },
+    {
+      "Metric": "DEIB Training",
+      "Value": "88",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "D",
+      "Definition": "Staff + board completion"
+    },
+    {
+      "Metric": "PWLE Governance",
+      "Value": "72",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "D",
+      "Definition": "Percentage of HC decision-making bodies (board, committees, advisory groups) that include meaningful representation from People with Lived Experience of homelessness or housing instability."
+    },
+    {
+      "Metric": "Staff Diversity",
+      "Value": "61",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "D",
+      "Definition": "Percentage of staff who identify as Black, Indigenous, or People of Color. Tracked across all levels including leadership."
+    },
+    {
+      "Metric": "BIPOC Partnerships",
+      "Value": "45",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "At Risk",
+      "Directive": "D",
+      "Definition": "Percentage of HC's formal community partnerships that are with BIPOC-led organizations, measured against a long-term target."
+    },
+    {
+      "Metric": "Equitable Procurement",
+      "Value": "53",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "At Risk",
+      "Directive": "D",
+      "Definition": "Percentage of HC vendor contracts and service agreements awarded through a process that explicitly applies DEIB criteria."
+    },
+    {
+      "Metric": "Community Trust Score",
+      "Value": "79",
+      "Unit": "%",
+      "Change vs Prior": "",
+      "Status": "On Track",
+      "Directive": "D",
+      "Definition": "Survey-based rating of trust and confidence in HC among BIPOC community members in HC's service regions."
+    }
+  ],
+  "placements": [
+    {
+      "Month": "Jan 2024",
+      "Housed": "42",
+      "Target": "50",
+      "Variance": "-8",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Feb 2024",
+      "Housed": "48",
+      "Target": "50",
+      "Variance": "-2",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Mar 2024",
+      "Housed": "53",
+      "Target": "50",
+      "Variance": "3",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Apr 2024",
+      "Housed": "61",
+      "Target": "55",
+      "Variance": "6",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "May 2024",
+      "Housed": "58",
+      "Target": "55",
+      "Variance": "3",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Jun 2024",
+      "Housed": "67",
+      "Target": "55",
+      "Variance": "12",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Jul 2024",
+      "Housed": "71",
+      "Target": "60",
+      "Variance": "11",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Aug 2024",
+      "Housed": "65",
+      "Target": "60",
+      "Variance": "5",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Sep 2024",
+      "Housed": "74",
+      "Target": "60",
+      "Variance": "14",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Oct 2024",
+      "Housed": "78",
+      "Target": "65",
+      "Variance": "13",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Nov 2024",
+      "Housed": "69",
+      "Target": "65",
+      "Variance": "4",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "Dec 2024",
+      "Housed": "80",
+      "Target": "65",
+      "Variance": "15",
+      "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
+    },
+    {
+      "Month": "TOTAL / AVG",
+      "Housed": "766",
+      "Target": "690",
+      "Variance": "76",
+      "Definition": "Sum of all monthly placements and targets for the full reporting period."
+    }
+  ],
+  "evictions": [
+    {
+      "Quarter": "Q1 2023",
+      "Filing Rate": "3.2",
+      "YoY Change": "—",
+      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
+    },
+    {
+      "Quarter": "Q2 2023",
+      "Filing Rate": "3.8",
+      "YoY Change": "0.6",
+      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
+    },
+    {
+      "Quarter": "Q3 2023",
+      "Filing Rate": "4.1",
+      "YoY Change": "0.3",
+      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
+    },
+    {
+      "Quarter": "Q4 2023",
+      "Filing Rate": "4.6",
+      "YoY Change": "0.5",
+      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
+    },
+    {
+      "Quarter": "Q1 2024",
+      "Filing Rate": "5",
+      "YoY Change": "0.4",
+      "Definition": "Peak quarter — filings exceeded pre-pandemic levels for the first time. Source: CT Judicial Branch."
+    },
+    {
+      "Quarter": "Q2 2024",
+      "Filing Rate": "4.7",
+      "YoY Change": "-0.3",
+      "Definition": "Slight decline from Q1 2024 peak, but still above pre-pandemic levels. HC prevention programs active in 4 regions."
+    }
+  ],
+  "partners": [
+    {
+      "Partner Type": "Nonprofits",
+      "Count / %": "58%",
+      "Color Code": "■ Nonprofits",
+      "Definition": "501(c)(3) organizations including homeless service providers, housing developers, legal aid, health, and social service agencies engaged in HC-led convenings or initiatives."
+    },
+    {
+      "Partner Type": "Government",
+      "Count / %": "31%",
+      "Color Code": "■ Government",
+      "Definition": "Municipal, state, and federal government agencies and departments participating in HC collective impact work, including housing authorities and CoC leads."
+    },
+    {
+      "Partner Type": "For-Profit",
+      "Count / %": "7%",
+      "Color Code": "■ For-Profit",
+      "Definition": "Private sector businesses, real estate developers, financial institutions, and employers engaged as partners in HC's housing affordability and workforce initiatives."
+    },
+    {
+      "Partner Type": "Foundations",
+      "Count / %": "4%",
+      "Color Code": "■ Foundations",
+      "Definition": "Private and community foundations providing funding and strategic partnership support to HC and its regional initiatives."
+    }
+  ],
+  "deib": [
+    {
+      "Metric": "DEIB Training Completion",
+      "Current %": "88%",
+      "Target %": "100%",
+      "Status": "On Track",
+      "Definition": "Percentage of all staff and board members who have completed the required annual DEIB training curriculum in the current plan year. Tracks both completion rate and training quality via post-survey."
+    },
+    {
+      "Metric": "PWLE in Governance",
+      "Current %": "72%",
+      "Target %": "85%",
+      "Status": "On Track",
+      "Definition": "Percentage of formal HC decision-making bodies — including the Board of Directors, advisory committees, and initiative steering groups — that include at least one Person with Lived Experience of homelessness or housing instability in a meaningful, compensated role."
+    },
+    {
+      "Metric": "Staff Diversity",
+      "Current %": "61%",
+      "Target %": "75%",
+      "Status": "On Track",
+      "Definition": "Percentage of HC staff who identify as Black, Indigenous, or People of Color (BIPOC), tracked across all levels. Leadership-level representation is tracked separately to identify pipeline gaps."
+    },
+    {
+      "Metric": "BIPOC Partnerships",
+      "Current %": "45%",
+      "Target %": "70%",
+      "Status": "At Risk",
+      "Definition": "Percentage of HC's formal community partnerships that are with organizations founded and led by BIPOC individuals, measured against the plan period target of 70%."
+    },
+    {
+      "Metric": "Equitable Procurement",
+      "Current %": "53%",
+      "Target %": "75%",
+      "Status": "At Risk",
+      "Definition": "Percentage of HC vendor, contractor, and consultant agreements awarded through a procurement process that explicitly applies DEIB criteria including minority-owned business preferences."
+    },
+    {
+      "Metric": "Community Trust Score",
+      "Current %": "79%",
+      "Target %": "85%",
+      "Status": "On Track",
+      "Definition": "Composite survey score measuring the level of trust, confidence, and sense of inclusion that BIPOC community members in HC's service regions feel toward The Housing Collective. Administered annually."
+    },
+    {
+      "Metric": "Racial Equity in Outcomes",
+      "Current %": "68%",
+      "Target %": "90%",
+      "Status": "At Risk",
+      "Definition": "Measures whether housing placement rates for BIPOC individuals are proportional to their representation in the overall homeless population. A score below 100% indicates a disparity gap."
+    },
+    {
+      "Metric": "Equity Audit Findings",
+      "Current %": "80%",
+      "Target %": "100%",
+      "Status": "On Track",
+      "Definition": "Percentage of identified inequities from the most recent internal equity audit that have been addressed or remediated. Audits cover hiring, compensation, procurement, and program access."
+    }
+  ],
+  "orgHealth": [
+    {
+      "Metric": "Staff Retention",
+      "Current": "87",
+      "Unit": "%",
+      "Target": "85",
+      "Status": "On Track",
+      "Definition": "Percentage of staff employed at the start of the fiscal year who remain employed at year-end. Calculated as: (staff at year-end ÷ staff at year-start) × 100. Target: 85% or above."
+    },
+    {
+      "Metric": "Revenue Diversification",
+      "Current": "64",
+      "Unit": "%",
+      "Target": "60",
+      "Status": "On Track",
+      "Definition": "Percentage of total annual revenue derived from the single largest funding source. A lower percentage indicates healthier diversification. Target: no single source exceeds 40% of total revenue."
+    },
+    {
+      "Metric": "Operating Reserve",
+      "Current": "2.4",
+      "Unit": "months",
+      "Target": "3",
+      "Status": "At Risk",
+      "Definition": "Number of months of average operating expenses held in unrestricted cash or liquid reserves. Calculated as: (unrestricted reserves ÷ average monthly expenses). Target: minimum 3 months."
+    },
+    {
+      "Metric": "Compliance Rate",
+      "Current": "98",
+      "Unit": "%",
+      "Target": "99",
+      "Status": "At Risk",
+      "Definition": "Percentage of all active grants and contracts where HC has met all funder reporting, programmatic milestone, and financial compliance requirements by their stated deadlines. Target: 99% or above."
+    },
+    {
+      "Metric": "Staff Satisfaction",
+      "Current": "4.1",
+      "Unit": "/5",
+      "Target": "4",
+      "Status": "On Track",
+      "Definition": "Average score (1–5 scale) from HC's bi-annual all-staff engagement and workplace satisfaction survey. Covers dimensions including culture, leadership, compensation, and professional growth."
+    },
+    {
+      "Metric": "Dev Hours / Person",
+      "Current": "23",
+      "Unit": "hrs",
+      "Target": "20",
+      "Status": "On Track",
+      "Definition": "Average number of formal professional development, training, and learning hours completed per full-time staff member annually. Includes internal training, external conferences, and coursework. Target: 20+ hours."
+    },
+    {
+      "Metric": "Cross-Initiative Synergies",
+      "Current": "18",
+      "Unit": "count",
+      "Target": "25",
+      "Status": "At Risk",
+      "Definition": "Count of formally documented collaborations, shared resources, joint activities, or warm referrals between HC's three core initiatives (Opening Doors, Centers for Housing Opportunity, Innovation Lab) in the reporting period."
+    },
+    {
+      "Metric": "Time to Fill Vacancies",
+      "Current": "42",
+      "Unit": "days",
+      "Target": "30",
+      "Status": "At Risk",
+      "Definition": "Average number of calendar days from the date a job posting is published to the date an offer is accepted. Measures recruitment efficiency. Target: 30 days or fewer."
+    }
+  ]
+}
