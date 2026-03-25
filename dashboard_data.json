@@ -7,7 +7,7 @@
       "Change vs Prior": "+18%",
       "Status": "On Track",
       "Directive": "A",
-      "Definition": "Total individuals and families successfully placed in stable housing year-to-date across all HC core initiatives (ODI, CHO, Innovation Lab)."
+      "Definition": "Total individuals and families successfully placed in stable housing year-to-date across all HC core initiatives."
     },
     {
       "Metric": "Avg Days Homeless",
@@ -25,7 +25,7 @@
       "Change vs Prior": "-2.1%",
       "Status": "On Track",
       "Directive": "A",
-      "Definition": "Percentage of people who return to homelessness within 12 months of being housed. Lower is better."
+      "Definition": "Percentage of people who return to homelessness within 12 months of being housed."
     },
     {
       "Metric": "Units Preserved",
@@ -183,84 +183,84 @@
   ],
   "placements": [
     {
-      "Month": "Jan 2024",
+      "Month": "2025-01-01 00:00:00",
       "Housed": "42",
       "Target": "50",
       "Variance": "-8",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Feb 2024",
+      "Month": "2025-02-01 00:00:00",
       "Housed": "48",
       "Target": "50",
       "Variance": "-2",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Mar 2024",
+      "Month": "2025-03-01 00:00:00",
       "Housed": "53",
       "Target": "50",
       "Variance": "3",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Apr 2024",
+      "Month": "2025-04-01 00:00:00",
       "Housed": "61",
       "Target": "55",
       "Variance": "6",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "May 2024",
+      "Month": "2025-05-01 00:00:00",
       "Housed": "58",
       "Target": "55",
       "Variance": "3",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Jun 2024",
+      "Month": "2025-06-01 00:00:00",
       "Housed": "67",
       "Target": "55",
       "Variance": "12",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Jul 2024",
+      "Month": "2025-07-01 00:00:00",
       "Housed": "71",
       "Target": "60",
       "Variance": "11",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Aug 2024",
+      "Month": "2025-08-01 00:00:00",
       "Housed": "65",
       "Target": "60",
       "Variance": "5",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Sep 2024",
+      "Month": "2025-09-01 00:00:00",
       "Housed": "74",
       "Target": "60",
       "Variance": "14",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Oct 2024",
+      "Month": "2025-10-01 00:00:00",
       "Housed": "78",
       "Target": "65",
       "Variance": "13",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Nov 2024",
+      "Month": "2025-11-01 00:00:00",
       "Housed": "69",
       "Target": "65",
       "Variance": "4",
       "Definition": "Monthly count of individuals and families successfully placed in stable housing through HC-supported programs. Target is set quarterly based on capacity and seasonal trends."
     },
     {
-      "Month": "Dec 2024",
+      "Month": "2025-12-01 00:00:00",
       "Housed": "80",
       "Target": "65",
       "Variance": "15",
@@ -274,44 +274,7 @@
       "Definition": "Sum of all monthly placements and targets for the full reporting period."
     }
   ],
-  "evictions": [
-    {
-      "Quarter": "Q1 2023",
-      "Filing Rate": "3.2",
-      "YoY Change": "—",
-      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
-    },
-    {
-      "Quarter": "Q2 2023",
-      "Filing Rate": "3.8",
-      "YoY Change": "0.6",
-      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
-    },
-    {
-      "Quarter": "Q3 2023",
-      "Filing Rate": "4.1",
-      "YoY Change": "0.3",
-      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
-    },
-    {
-      "Quarter": "Q4 2023",
-      "Filing Rate": "4.6",
-      "YoY Change": "0.5",
-      "Definition": "Eviction filings per 1,000 renter households in Connecticut. Source: CT Judicial Branch. Pre-pandemic baseline (2019) was approximately 3.0."
-    },
-    {
-      "Quarter": "Q1 2024",
-      "Filing Rate": "5",
-      "YoY Change": "0.4",
-      "Definition": "Peak quarter — filings exceeded pre-pandemic levels for the first time. Source: CT Judicial Branch."
-    },
-    {
-      "Quarter": "Q2 2024",
-      "Filing Rate": "4.7",
-      "YoY Change": "-0.3",
-      "Definition": "Slight decline from Q1 2024 peak, but still above pre-pandemic levels. HC prevention programs active in 4 regions."
-    }
-  ],
+  "evictions": [],
   "partners": [
     {
       "Partner Type": "Nonprofits",
